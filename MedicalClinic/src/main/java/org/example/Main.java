@@ -227,6 +227,8 @@ public class Main {
                     break;
                 default:
                     System.out.println("Invalid option. Please choose again.");
+                    System.out.println("git fix_medical");
+
             }
         }
     }
